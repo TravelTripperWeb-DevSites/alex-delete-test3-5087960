@@ -1,6 +1,5 @@
 ---
 - abc: http://test
-- Test/: test
 - TEST: test
 - TEST/: test
 - test: https://www.google.com
